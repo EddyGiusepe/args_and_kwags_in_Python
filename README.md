@@ -1,4 +1,4 @@
-# *args and **kwags in Python
+# *args and **kwargs in Python
 
 
 
