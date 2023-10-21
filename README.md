@@ -1,6 +1,6 @@
-# <font color="yellow">*args and **kwargs in Python</font>
+# <h1 align="center"><font color="yellow">*args and **kwargs in Python</font></h1>
 
-## <font color="yellow">Data Scientist.: Dr.Eddy Giusepe Chirinos Isidro</font> 
+<font color="yellow">Data Scientist.: Dr.Eddy Giusepe Chirinos Isidro</font> 
 
 
 
@@ -14,3 +14,6 @@
 * `*args` permite passar um número variável de argumentos que não sejam palavras-chave para uma função.
 
 * `**kwargs` permite passar um número variável de argumentos de palavra-chave para uma função.
+
+
+Thanks God 🕊️!

@@ -23,3 +23,4 @@ def my_function(**kwargs):
 output = my_function(Nome="Eddy", Idade=41, Profissão="Data Scientist", Cidade="Vitória-ES")
 
 print(output)
+
